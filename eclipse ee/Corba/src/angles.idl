@@ -1,0 +1,6 @@
+
+module trinagleAngles{
+	interface TriangleAngles{
+		string computeAngles(in double x1,in double y1,in double x2,in double y2,in double x3,in double y3);
+	};
+};
